@@ -6,6 +6,8 @@
 
 *.xml
 .idea
+/.idea
+/Rob/*
 # Ignore bundler config.
 /.bundle
 
@@ -17,3 +19,5 @@
 /log/*
 !/log/.keep
 /tmp
+# Ignore Spring files.
+/spring/*.pid
