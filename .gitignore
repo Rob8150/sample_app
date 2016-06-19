@@ -5,7 +5,9 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 *.xml
+*.iml
 .idea
+/.idea
 # Ignore bundler config.
 /.bundle
 
